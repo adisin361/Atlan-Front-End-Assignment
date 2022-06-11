@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+tr:nth-child(even) 
+{  
+    background-color: #ededed;  
+} 

@@ -26,7 +26,7 @@ export default function App(){
     <div>
       <div className="flex flex-1 justify-center mt-10 mb-3">
         <h3 className="text-4xl text-slate-900">Atlan Assignment</h3>
-        <a href="https://yourblogchain.com/" target="_blank"><button className="ml-5 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+        <a href="https://github.com/adisin361/Atlan-Front-End-Assignment" target="_blank"><button className="ml-5 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
   GitHub</button></a>
       </div>
 

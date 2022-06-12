@@ -7,7 +7,7 @@ export default function App(){
   const [searchColumns, setSearchColumns] = useState(["productName", "supplierID"]);
 
   useEffect(() => { 
-    fetch("src/Products.json")
+    fetch("https://raw.githubusercontent.com/adisin361/Atlan-Front-End-Assignment/main/src/Products.json")
     .then((response) => response.json())
     .then((json) => setData(json));
   }, []);

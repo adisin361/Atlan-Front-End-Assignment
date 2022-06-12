@@ -16,9 +16,9 @@ A simple **web-app** which helps you search data in a table corresponding to any
 
 ## Page Load Time
 Used 3 different tools in order to measure the page load time for the appliaction:</br>
-1. Page Speed Insights: Time to interative - 0.7s.
-2. GTmetrix - Fully Loaded Time: 0.8s.
-3. Speed Vitals: Fully Loaded - 1.5s (On Load: 0.8s).
+1. Page Speed Insights: Time to interative - **0.7s**.
+2. GTmetrix - Fully Loaded Time: **0.8s**.
+3. Speed Vitals: Fully Loaded - **1.5s (On Load: 0.8s)**.
 
 <p float="left">
   <img src="https://www.linkpicture.com/q/WhatsApp-Image-2022-06-12-at-4.36.56-PM.jpeg" width="330" />
